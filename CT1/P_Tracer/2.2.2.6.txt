@@ -1,0 +1,1 @@
+the delay variable is resposible for time chnage between colors, raising that variable will lead to more delays , meaning the led will hold the color for more time , and decreasing that value will lead to faster change between colors
